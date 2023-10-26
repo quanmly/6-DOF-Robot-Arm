@@ -1,8 +1,11 @@
 # 6-DOF-Robot-Arm
 6 DOF Robot Arm controlled by Arduino and Potentiometers. 
 
-Motion is smoothed using the Smoothed Library from Matthew Fryer.
+Joint articulation demo: https://youtu.be/rDRVff4d3tQ
 
+Simple pick and place demo: https://youtu.be/CRa9gmInE9g
+
+Motion is smoothed using the Smoothed Library from Matthew Fryer.
 
 Servos used:
 
