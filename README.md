@@ -12,3 +12,11 @@ Servos used:
 4 x MG 966R for Base, Shoulder, Elbow, Wrist (Pitch) joints
 
 2 x SG90 for Wrist (Roll) and Claw joints
+
+Inspiration/Remixes:
+
+How to Mechatronics: https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/
+
+jjshortcut: https://www.thingiverse.com/thing:2415
+
+hkucs-makerlab: https://www.thingiverse.com/thing:4394894
