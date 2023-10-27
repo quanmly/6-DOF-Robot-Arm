@@ -17,7 +17,7 @@ Motion is smoothed using the Smoothed Library from Matthew Fryer.
 
 ///////////////////////////////////////////////////////////////
 
-**Inspiration/Remixes:**
+**References/Inspiration/Remixes:**
 
 How to Mechatronics: https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/
 
